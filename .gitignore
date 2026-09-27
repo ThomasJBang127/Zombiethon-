@@ -1,0 +1,15 @@
+# NetBeans build outputs and compiled classes
+build/
+dist/
+*.class
+
+# NetBeans user-specific / private configurations
+nbproject/private/
+
+# Local game runtime generated data
+scores.txt
+
+# Common OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
